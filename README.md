@@ -23,7 +23,7 @@ Copy `.env-example` to `.env`
 3. `ctrl` + `shift` + `c` to open inspect element.
 4. Click "Network" tab (1).
 5. On the left sidebar, you can select an agent. There are 2 agents that we have created to interact automatically. They are:
-    - `Agent 1`: Proffesor
+    - `Agent 1`: Professor
     - `Agent 2`: Sharelock
 6. Click the agent (2).
 7. Click the quick chat button (3).
