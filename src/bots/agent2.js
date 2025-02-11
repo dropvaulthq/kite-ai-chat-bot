@@ -4,7 +4,7 @@ import axios from 'axios';
 import 'dotenv/config';
 
 displayBanner();
-console.log(chalk.green('> Starting Model 2 ...\n================================\n'));
+console.log(chalk.green('> Starting Agent 2 (SHERLOCK) ...\n================================\n'));
 
 class KiteAIBot {
     constructor() {

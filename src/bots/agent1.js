@@ -6,7 +6,7 @@ import path from 'path';
 import 'dotenv/config'
 
 displayBanner();
-console.log(chalk.green('> Starting Model 1 ...\n================================\n'));
+console.log(chalk.green('> Starting Agent 1 (PROFESSOR) ...\n================================\n'));
 
 class KiteAIBot {
     constructor() {
