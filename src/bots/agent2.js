@@ -90,4 +90,7 @@ class KiteAIBot {
     }
 }
 
+const bot = new KiteAIBot()
+bot.run()
+
 export default KiteAIBot;
