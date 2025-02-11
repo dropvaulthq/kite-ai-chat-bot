@@ -18,7 +18,7 @@ Copy `.env-example` to `.env`
 
 1. Login to [Kite AI Website](https://testnet.gokite.ai?r=bA3F7p34)
 2. Scroll down and click "Interact", and you will be redirected to another page.
-![alt text](image.png)
+![alt text](./src/assets/image.png)
 
 3. `ctrl` + `shift` + `c` to open inspect element.
 4. Click "Network" tab (1).
@@ -29,11 +29,11 @@ Copy `.env-example` to `.env`
 7. Click the quick chat button (3).
 8. Click "main" request (4).
 9. Copy "Request URL" and store it in the `FIRST_ENDPOINT_<?>` (`.env`) variable that has been customised with the agent selected from the website. (5).
-![alt text](image-1.png)
+![alt text](./src/assets/image-1.png)
 10. Click "report_usage" request (1)
 11. Click "Payload" tab (2).
 12. Copy your "agent_id" and store it in the `AGENT_ID_<?>` (`.env`) variable that has been customised with the agent selected from the website..
-![alt text](image-2.png)
+![alt text](./src/assets/image-2.png)
 13. Paste your wallet address into the `WALLET_ADDRESS` (`.env`) variable.
 14. ✅ Done!
 
